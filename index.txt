@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<header>
+<head>
 	<meta charset="utf-8" />
 	<title>Halloween Store</title>
 	<link href="styles/main.css" rel= "stylesheet" type= "text/css">
-</header>
+</head>
 <body>
+	<header>
 	<!-- Picture of pumpkin-->
 		<img src="images/pumpkin.gif" alt="pumpkin">
 		<div id="halloween">
@@ -14,6 +15,7 @@
 		<h1>The Halloween Store</h1>
 		<h2>For the little Goblin in all of us!</h2>
 		</div>	
+		</header>
 	<section>
 		<ul>
 			<li><u><b><a href="" target="_blank">Props</a></b></u></li>
